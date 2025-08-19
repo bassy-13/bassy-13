@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Bassant Ekramy, Computer Science Student @ AIU 🤖<br>
+  <br> I'm Bassant Ekramy🤖<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -22,7 +22,7 @@
 
 <h2 align="left">👩🏻‍💻 About Me:</h2>
 
-- 🎓 I'm a **Computer Science student @ Alamein International University (AIU)**  
+- 🎓 I'm a **Computer Science student (AIU)**  
 - 🤖 Planning to specialize in **Artificial Intelligence**  
 - 💻 Skilled in **Java (OOP, Data Structures)** & **C++ (OOP, Data Structures)**  
 - 🌱 Currently learning **Web Development & Cybersecurity**  
